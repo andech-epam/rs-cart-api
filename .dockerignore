@@ -1,0 +1,18 @@
+# Folder with git files
+.git
+
+# Folder with local modules
+node_modules
+
+# Npm debug log files
+npm-debug
+
+# Folder with build files
+dist
+
+# Folder created by npm install command
+node_modules
+
+# AWS Elastic Beanstalk config
+.elasticbeanstalk
+.ebextensions
